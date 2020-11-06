@@ -1,3 +1,3 @@
 ### Hybrid Crypto System 
 
-![](screenshot.gif)
+![](ImageFile/screenshot.gif)
